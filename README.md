@@ -19,4 +19,8 @@ Esses valores são dinâmicos e trazidos em tempo real por uma API que se chama 
 ## 🔗 Links
 [![Extended Rate](https://img.shields.io/badge/Extended_Rate-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://api.exchangerate-api.com)
 
+## Aprendizados
+
+Neste projeto aprendi aplicar Orientação a Objetos, trabalhando com listas e coleções de dados e consumindo API, gravar arquivos e lidar com erros.
+
 
