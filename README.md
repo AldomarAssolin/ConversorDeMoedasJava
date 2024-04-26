@@ -12,7 +12,7 @@ O objetivo deste programa é criar uma interação com o usuário de forma textu
 
 # API
 
-Esses valores são dinâmicos e trazidos em tempo real por uma API que se chama **Extended Rate**. Essa API, é gratuita.
+Esses valores são dinâmicos e trazidos em tempo real por uma API que se chama **Extended Rate**.
 
 
 
