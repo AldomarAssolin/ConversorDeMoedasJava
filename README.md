@@ -1,5 +1,9 @@
 
-![Logo](https://github.com/AldomarAssolin/AldomarAssolin/blob/389935a2161a11fb5199be81500bbc22101ecf22/assets/images/Assolin.png)
+  
+<div align="center">
+    <img src="https://github.com/AldomarAssolin/AldomarAssolin/blob/389935a2161a11fb5199be81500bbc22101ecf22/assets/images/Assolin.png" width="220"/>
+</div>
+
 
 
 # Conversor de Moedas com consumo de API
